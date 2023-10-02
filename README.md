@@ -2,5 +2,6 @@ Preview:
 
 
 
-https://github.com/Zihadul-Islam-Fahim/Online_Shopping_UI/assets/82943440/a61de729-a8a7-4fa0-bcfb-8696aa3e1e3d
+https://github.com/Zihadul-Islam-Fahim/Online_Shopping_UI/assets/82943440/d5f6ddd1-a8b3-4c43-907b-0ee88f8c7b32
+
 
